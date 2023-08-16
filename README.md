@@ -9,7 +9,7 @@
 ### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
 
 # ✍️ About
-The guide contains various soft skills that are usually (but not mandatory) required for various software engineering positions, and that is independent of:
+The guide contains various soft skills that are usually (but not mandatory) required for various software engineering positions, and that are independent of:
 
 - Expertise in a specific programming language or software technology
 - Experience working with a particular platform
@@ -28,47 +28,47 @@ Cultivating the following abilities will not only enhance your prowess as an eng
 6. Be proactive in assisting your colleagues when they need help. Take responsibility for their success by offering your expertise and guidance.
 
 ## 🍱 Being Organized
-1. Make your own schedule when you feel you'r most productive
+1. Make your own schedule when you feel you're most productive
 2. Don't delay the most challenging or annoying tasks: it's better to get "rid" of them as soon as possible:
-  - Solving the most challenging tasks first, will give you a positive vibe, rather than draining your psychological energy
+  - Solving the most challenging tasks first, will give you a positive vibe, rather than drain your psychological energy
 3. Take care of yourself:
   - If you feel healthy and happy, then your work will reflect that as well 
   - Sleep enough and make that more consistent
   - Eat regularly and drink a lot of water
-  - Find time to exercise. Even having 20 minutes excersizes everyday will make you more energized and healthier. Remember, you don’t need hours of excersises to be healthy and look good. Consistency and discipline are more important here as well
+  - Find time to exercise. Even having 20 minutes of exercise every day will make you more energized and healthier. Remember, you don’t need hours of exercise to be healthy and look good. Consistency and discipline are more important here as well
 4. Clean up your workspace:
-  - What's the point in living in a mess? - Your workspace (both digital and physical) should be organized and minimal - don't keep outdated and unused things
+  - What's the point of living in a mess? - Your workspace (both digital and physical) should be organized and minimal - don't keep outdated and unused things
   - Our work takes most of the time. Do you want to be surrounded by a mess most of your life?
 5. Personal knowledge and code base should be also well organized. You should be able to find what you need with ease
 6. Make frameworks and libraries for yourself:
-  - By organizing programming solution as reusable packages into different categories, you will build up your own framework collection and be able to reuse it and later save a lot of time
+  - By organizing programming solutions as reusable packages into different categories, you will build up your own framework collection and be able to reuse it and later save a lot of time
 
 ## 🐵👶 Evolving
 1. Always evolve:
- - There are numerous tutorials, articles, guides, books, podcasts, open source projects and other materials that are valuable sources of knowledge
+ - There are numerous tutorials, articles, guides, books, podcasts, open-source projects, and other materials that are valuable sources of knowledge
  - Remember: the lack of experience can be partially fulfilled by knowledge. The more you know, the easier for you to pick up something new and dive in, even without remembering specifics
 2. Make it your daily routine:
   - Have a list of learning materials that you need to learn 
-  - Be disciplined and invest time and energy to educate yourself, everyday by a bit
+  - Be disciplined and invest time and energy to educate yourself, every day by a bit
 3. Have your own projects:
-  - You personal, private projects may develop slowly, but one day you possibly be able to monetize them, or possibly create your own company
+  - Your personal, private projects may develop slowly, but one day you possibly be able to monetize them, or possibly create your own company
 
 ## 🦹‍♂️🦹‍♀️ Teamwork
-1. Know tools that your team uses
+1. Know the tools that your team uses
 2. Don’t be afraid to communicate with your clients, even if those are inside your company
-3. Be able to effectively collaborate in your group or team as well as with other grops or teams that have or may not have direct relation to your work 
+3. Be able to effectively collaborate in your group or team as well as with other groups or teams that have or may not have a direct relation to your work 
 4. Reflect on yourself and your work during the communication process with your teammates
 5. Empathy. That's what makes you a great human being and as a result a great professional
 
 ## 💡 Problem Solving
 1. An ability to split big chunks of work:
-  - A `TASK` should be split into subtasks such as: `T`, `A`, `S` and `K`
+  - A `TASK` should be split into subtasks such as: `T`, `A`, `S`, and `K`
   - Be able to define coupling between the subtasks and start resolving them one by one 
 2. An ability to find easy (relatively) solutions for complex tasks
 3. Being able to understand that each task has many possible solutions
     - Being able to find those solutions, evaluate them and select the most optimal one for your current context and environment
 4. An ability to make sure that a task is really solved
-5. An ability to explain and formalize a problem - that is a half way in resolving it
+5. An ability to explain and formalize a problem - that is half way to resolving it
 
 ## ⌨️ Programming
 1. Cultivate the ability to write clear, comprehensible code that is both maintainable and extendable, ensuring ease of use for yourself and others.
